@@ -40,7 +40,7 @@ countWithLet(); //위의 함수를 호출
 위와 같은 결과물이 한 번에  나올거에요.  
 매우 상식적이고 정상적인 결과죠.  
 
-![playcode.io](https://raw.githubusercontent.com/junseol86/yalcodic/master/26_scope/js_code/playcode.png?token=AB5VY2SMJ2A4GI32MWJVPI26MBDOS)
+![playcode.io](https://raw.githubusercontent.com/yalcodic/code-examples/master/26_SCOPE/playcode.png)
 
 <a href="https://playcode.io/" target="_blank">playcode.io</a>에 방문하면 위 캡쳐화면에서처럼 간단한 자바스크립트 코드들을 붙여넣어서 바로 실행할 수 있어요!  
 
